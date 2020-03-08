@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Runner {
 	
-	//comment
+	//comment 2
 
 	public static void main(String[] args) {
 		Scanner myScanner = new Scanner(System.in);
